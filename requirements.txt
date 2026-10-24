@@ -1,0 +1,5 @@
+requests
+pandas
+fastapi
+uvicorn
+google-cloud-storage
